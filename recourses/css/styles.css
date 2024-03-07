@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    font-family: "Merriweather", "Ubuntu";
+}
+
+main{
+    background-color: aqua;
+}
+
+.client{
+    
+    background-color: brown;
+}
+
+.infobox{
+    display: none;
+}
